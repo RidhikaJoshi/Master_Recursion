@@ -1,5 +1,5 @@
 /*
-We are given a sequence of numbers in array. We need to return a sorted sequence of given numbers in non decreasing order using merge sort algorithm.
+We are given a sequence of numbers in array. We need to return a sorted sequence of given numbers in non decreasing order using quick sort algorithm.
 */
 #include <bits/stdc++.h> 
 using namespace std;
